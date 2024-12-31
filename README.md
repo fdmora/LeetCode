@@ -1,3 +1,3 @@
-# LeadCode
+# LeetCode
 
 Merge Sorted Array

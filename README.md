@@ -11,4 +11,5 @@ Daily Question
 <li>Unique Length 3 Palindromic Subsequences</li>
 <li>ShiftingLettersII</li>
 <li>MinimumNumberofOperationstoMoveAllBallstoEachBox</li>
+<li>StringMatchinginanArray</li>
 </ul>

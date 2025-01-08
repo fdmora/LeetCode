@@ -10,4 +10,5 @@ Daily Question
 <li>Remove At</li>
 <li>Unique Length 3 Palindromic Subsequences</li>
 <li>ShiftingLettersII</li>
+<li>MinimumNumberofOperationstoMoveAllBallstoEachBox</li>
 </ul>

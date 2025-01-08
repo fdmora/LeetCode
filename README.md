@@ -12,4 +12,5 @@ Daily Question
 <li>ShiftingLettersII</li>
 <li>MinimumNumberofOperationstoMoveAllBallstoEachBox</li>
 <li>StringMatchinginanArray</li>
+<li>CountPrefixandSuffixPairsI</li>
 </ul>

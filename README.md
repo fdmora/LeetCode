@@ -15,4 +15,6 @@ Daily Question
 <li>CountPrefixandSuffixPairsI</li>
 <li>CountingWordsWithaGivenPrefix</li>
 <li>ConstructKPalindromeStrings</li>
+<li>WordSubsets</li>
+
 </ul>

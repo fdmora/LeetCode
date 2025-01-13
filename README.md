@@ -17,5 +17,6 @@ Daily Question
 <li>ConstructKPalindromeStrings</li>
 <li>WordSubsets</li>
 <li>CheckifaParenthesesStringCanBeValid</li>
+<li>MinimumLengthofStringAfterOperations</li>
 
 </ul>

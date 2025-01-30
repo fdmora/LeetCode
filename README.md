@@ -18,5 +18,8 @@ Daily Question
 <li>WordSubsets</li>
 <li>CheckifaParenthesesStringCanBeValid</li>
 <li>MinimumLengthofStringAfterOperations</li>
+<li>FindthePrefixCommonArrayofTwoArrays</li>
+<li>DivideNodesIntotheMaximumNumberofGroups</li>
+
 
 </ul>

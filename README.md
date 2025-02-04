@@ -20,6 +20,7 @@ Daily Question
 <li>MinimumLengthofStringAfterOperations</li>
 <li>FindthePrefixCommonArrayofTwoArrays</li>
 <li>DivideNodesIntotheMaximumNumberofGroups</li>
+<li>MaximumAscendingSubarraySum</li>
 
 
 </ul>

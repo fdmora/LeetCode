@@ -21,6 +21,8 @@ Daily Question
 <li>FindthePrefixCommonArrayofTwoArrays</li>
 <li>DivideNodesIntotheMaximumNumberofGroups</li>
 <li>MaximumAscendingSubarraySum</li>
+<li>ClosestPrimeNumbersinRangem</li>
+
 
 
 </ul>

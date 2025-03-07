@@ -21,6 +21,7 @@ Find the Prefix Common Array of Two Arrays
 Divide Nodes Into the Maximum Number of Groups
 Maximum Ascending Subarray Sum
 Closest Prime Numbers in Range
+Palindromo
 📂 Organización
 Cada solución se encuentra en su respectiva carpeta con el nombre del problema, junto con su implementación y explicación detallada.
 

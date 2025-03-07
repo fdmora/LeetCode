@@ -1,0 +1,7 @@
+Palindromo es una frase que puede leerse indistintamente tanto de izquierda
+a derecha como viceversa. Eliminando puntuacion y espacios, claro está.
+Crear un función que permita identificar si una cadena de texto es un palindromo.
+Ejemplos a probar:
+Atar a la rata
+Di clases al Cid
+La ruta natural

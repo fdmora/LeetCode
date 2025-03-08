@@ -1,0 +1,18 @@
+def fibonacci(n):
+    if n <= 2:
+        return []  # Retorna una lista vacía si n <= 2
+    
+    sequence = [1, 1]
+    for i in range(2, n):
+        sequence.append(sequence[i - 1] + sequence[i - 2])
+    
+    return sequence
+
+# Entrada del usuario
+n = int(input("Ingrese un número mayor que 2: "))
+
+# Validación y salida
+if n > 2:
+    print("Secuencia de Fibonacci:", fibonacci(n))
+else:
+    print("Error: El número debe ser mayor que 2.")
